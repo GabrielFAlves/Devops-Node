@@ -1,0 +1,5 @@
+2024-06-16T16:39:48.611Z, [my-app] info: Parte do Programa do Certo - undefined
+2024-06-16T16:39:48.615Z, [my-app] info: Parte do Programa do Warning - undefined
+2024-06-16T16:39:48.615Z, [my-app] info: Parte do Error - undefined
+2024-06-16T16:39:48.616Z, [my-app] info: teste do Winston Certo .... - undefined
+2024-06-16T16:39:48.616Z, [my-app] error: teste do Winston errado .... - undefined
